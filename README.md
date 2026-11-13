@@ -63,7 +63,4 @@ This repository contains the supplied project files and documentation. The desig
 
 The design documentation also discusses save/load in the console flow; the supplied GUI includes save/load controls. The supplied console and GUI files are preserved as submitted rather than silently rewritten. As with many coursework projects, review and test the code in your own Python environment before relying on it as a standalone release.
 
-## Academic project
-CMP5368 Applied Programming – Birmingham City University.
 
-This was a group project. The repository is presented as a record of the group's submitted work; individual contributions should be described separately and accurately on a CV.
